@@ -1,3 +1,6 @@
+// 일베쪽 adblock관련 코드 잠시 적어놓은겁니다.
+// 삭제 후 사용해 주세요.
+
 var scriptContent = `
 (function() {
 
